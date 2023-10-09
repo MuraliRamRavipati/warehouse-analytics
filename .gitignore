@@ -1,0 +1,5 @@
+wa-backend/node_modules/
+
+wa-frontend/node_modules/
+
+dbdump.sql
